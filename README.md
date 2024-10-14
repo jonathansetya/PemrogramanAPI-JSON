@@ -13,7 +13,7 @@
 ||||
 |--|--|--|
 |No.|Latihan|Detail|
-|01|Latihan 1|Belajar Penggunaan Next JS|
+|02|Latihan 2|Belajar Editing Dan Pemanggilan File JSON|
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
