@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Yor Forger",
+    "gender": "Female",
+    "age": 27,
+    "height": "170 cm",
+    "hair_color": "Black",
+    "eye_color": "Red",
+    "anime": "Spy x Family"
+  },
+  {
+    "name": "Esdeath",
+    "gender": "Female",
+    "age": 20,
+    "height": "170 cm",
+    "hair_color": "Blue",
+    "eye_color": "Blue",
+    "anime": "Akame Ga Kill!"
+  },
+  {
+    "name": "Ai Hoshino",
+    "gender": "Female",
+    "age": 20,
+    "height": "151 cm",
+    "hair_color": "Blue-purplish",
+    "eye_color": "Purple",
+    "anime": "Oshi no Ko"
+  },
+  {
+    "name": "Mikasa Ackerman",
+    "gender": "Female",
+    "age": 22,
+    "height": "176 cm",
+    "hair_color": "Black",
+    "eye_color": "Gray",
+    "anime": "Attack on Titan"
+  }
+]
